@@ -1,0 +1,11 @@
+{
+  "name": "passwordgenerator",
+  "version": "1.0.0",
+  "description": "This project helps to generate the password randomly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anjit",
+  "license": "ISC"
+}
